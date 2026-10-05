@@ -27,12 +27,6 @@ sudo apt-get install python3-tk
 - books.db — SQLite database file (generated automatically).
 
 🚀 How to Run
-
-Open your terminal or command prompt and navigate to the project directory:
-```bash
-cd /path/to/your/project
-```
-
 Run the frontend.py file:
 
 Windows:
