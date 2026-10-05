@@ -20,26 +20,27 @@ sudo apt-get install python3-tk
 
 📁 Project Structure
 
-frontend.py — Graphical User Interface (GUI). Main file to run the application.
+- frontend.py — Graphical User Interface (GUI). Main file to run the application.
 
-backend.py — Database logic and CRUD operations for SQLite (books.db).
+- backend.py — Database logic and CRUD operations for SQLite (books.db).
 
-books.db — SQLite database file (generated automatically).
+- books.db — SQLite database file (generated automatically).
 
 🚀 How to Run
 
 Open your terminal or command prompt and navigate to the project directory:
-
+```bash
 cd /path/to/your/project
-
+```
 
 Run the frontend.py file:
 
 Windows:
-
+```bash
 python frontend.py
-
+```
 
 macOS / Linux:
-
+```bash
 python3 frontend.py
+```
